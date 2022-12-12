@@ -6,7 +6,7 @@
 
 :root {
     --primary-color: lime;
-    --text-color: #727171;
+    --text-color: white;
 }
 
 html {
@@ -23,6 +23,12 @@ body {
 /* common styles */
 
 img {
+    width: 50%;
+    height: 50%;
+}
+
+#Kaplan-Nijat {
+    height: 100%;
     width: 100%;
 }
 
